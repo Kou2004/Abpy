@@ -8,7 +8,7 @@ A Python library for rigorous frequentist A/B and multivariate testing, with bui
 ## Installation
 
 ```bash
-pip install abpy
+pip install abpy-toolkit
 ```
 
 ---
